@@ -1,9 +1,9 @@
 # fizzbuzz
-First project on github
+1º projecto no github
 
-Getting Started
+Começar
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Para usar esta solução, primeiro tem que a clonar para os eu computador. 
 
 Prerequisites
 
