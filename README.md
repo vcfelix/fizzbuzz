@@ -1,26 +1,18 @@
 # fizzbuzz
 1º projecto no github
 
-Começar
+Como Começar
 
-Para usar esta solução, primeiro tem que a clonar para os eu computador. 
+Para usar esta solução, primeiro tem que a clonar para o seu computador. Clique em clone/download e descarregue uma cópia da solução no seu computador. 
 
-Prerequisites
+Pré-requisitos
 
-What things you need to install the software and how to install them
+Esta solução foi criada no Visual Studio 2015 Community. Deve ter instalada esta versão para poder abrir a solução.
 
-Give examples
-Installing
+Instalação/execução
 
-A step by step series of examples that tell you have to get a development env running
+Abrir o Visual Studio, seleccionar 'Abrir Solução' e escolher o fichiero fizzbuzz.sln.
 
-Say what the step will be
-
-Give the example
-And repeat
-
-until finished
-End with an example of getting some data out of the system or using it for a little demo
 
 Running the tests
 
